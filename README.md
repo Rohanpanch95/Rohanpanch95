@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Panchanath a  neurodiverse learner 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning basics of front end development 
+- 🌱 I’m currently Upskilling in order to learn the basics of front end development . 
 - 💞️ I’m looking to collaborate with  people who have a similar neurodiverse mechanism of learning Coding .
 - 📫 How to reach me -Rohanpanchanath95@gmail.com
 
